@@ -39,7 +39,6 @@ This section highlights my professional WordPress experience gained while workin
 - See detailed project case study in `InvictaDynamos/README.md`
 
 ### Maintenance & Ongoing Support
-- **CricketSwitzerland**
-- **SwintonLionsRLFC**
-- See detailed case study in `maintenance/README.md`
-  
+- **Cricket Switzerland**
+- **Swinton Lions RLFC**
+- See detailed case studies in `CricketSwitzerland/README.md` and `SwintonLionsRLFC/README.md`
