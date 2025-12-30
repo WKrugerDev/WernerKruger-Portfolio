@@ -7,26 +7,24 @@
 
 ## Project Overview
 
-Ongoing support for Wordpress site.
+Ongoing maintenance and updates for a WordPress site, ensuring performance, security, and SEO optimization.
 
 ---
 
 ## Responsibilities
 
-- Doing posts while ensuring to add caterogies/tags to posts to ensure better SEO
-- Updated existing layouts and added pages where requested using the website template as reference
-- Implemented SEO best practices
+- Updated layouts, pages, and posts using the existing template
+- Implemented SEO best practices and optimized content structure
 - Configured caching and security plugins
-- Guided the client on content, images, and structure for updates and posts
-- Fixed some plugin conflicts causing visual issues on site
-- Troubleshooting and resolving issues, such as updating virtual email sending for contact forms to comply with new Google security policies.
+- Troubleshot plugin conflicts and resolved technical issues
+- Maintained email delivery for contact forms following Google security updates
+- Collaborated with the client on content, images, and structural changes
 
 ---
 
 ## Tools & Technologies
 
-- WordPress
-- Divi Page Builder
+- WordPress & Divi Page Builder
 - HTML, CSS, JavaScript
 - SEO and caching plugins
 - Security plugins
