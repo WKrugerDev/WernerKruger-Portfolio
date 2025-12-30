@@ -1,0 +1,3 @@
+[submodule "dotnet"]
+	path = dotnet
+	url = https://github.com/WKrugerDev/Full-Stack-Course-Projects
