@@ -38,6 +38,6 @@ This section highlights my professional WordPress experience gained while workin
   Invicta Dynamos
 
 - **Maintenance & Ongoing Support Websites**  
-  CricketSwitzerland
-  SwintonLionsRLFC
+  CricketSwitzerland, 
+  SwintonLions RLFC
   
