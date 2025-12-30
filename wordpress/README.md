@@ -34,10 +34,12 @@ This section highlights my professional WordPress experience gained while workin
 
 ## Projects
 
-- **Custom Bespoke Website**  
-  Invicta Dynamos
+### Custom Bespoke Website
+- **Invicta Dynamos**
+- See detailed project case study in `InvictaDynamos/README.md`
 
-- **Maintenance & Ongoing Support Websites**  
-  CricketSwitzerland, 
-  SwintonLions RLFC
+### Maintenance & Ongoing Support
+- **CricketSwitzerland**
+- **SwintonLionsRLFC**
+- See detailed case study in `maintenance/README.md`
   
