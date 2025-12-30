@@ -1,4 +1,4 @@
-# Project: Cricket (WordPress)
+# Project: Cricket Switzerland(WordPress)
 
 **Live URL:** [(https://cricketswitzerland.ch/)] 
 **Role:** Web Developer – Maintenance
