@@ -1,6 +1,6 @@
 # Werner Kruger – Web Developer & Aspiring Software Developer
 
-I am a Web Developer with several years of professional experience building, maintaining, and optimizing websites using WordPress, WooCommerce, and Shopify. My background includes front-end development (HTML, CSS, JavaScript), SEO optimization, performance tuning, security best practices, and direct client collaboration.
+I am a Web Developer with several years of professional experience building, maintaining, and optimizing websites using WordPress, WooCommerce, and Shopify. My background includes front-end development (HTML, CSS, JavaScript), SEO optimization, performance tuning, security best practices, and direct client collaboration. These projects also demonstrate applied front-end and full-stack development skills in real-world CMS environments, complementing my programming-focused work.
 
 Alongside my professional web development work, I am actively transitioning toward a more software-focused role through structured full-stack development studies using the .NET ecosystem.
 
