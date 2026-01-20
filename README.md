@@ -1,17 +1,18 @@
 # Werner Kruger – Web Developer & Aspiring Software Developer
 
-I am a Web Developer with several years of professional experience building, maintaining, and optimizing websites using WordPress, WooCommerce, and Shopify. My background includes front-end development (HTML, CSS, JavaScript), SEO optimization, performance tuning, security best practices, and direct client collaboration. These projects also demonstrate applied front-end and full-stack development skills in real-world CMS environments, complementing my programming-focused work.
+I am a Web Developer with several years of professional experience building, maintaining, and optimizing websites using **WordPress, WooCommerce, and Shopify**. My work spans front-end development (HTML, CSS, JavaScript), SEO optimization, performance tuning, security best practices, and direct client collaboration.  
 
-Alongside my professional web development work, I am actively transitioning toward a more software-focused role through structured full-stack development studies using the .NET ecosystem.
+In addition to my CMS expertise, I am actively transitioning toward a **software-focused role** through structured full-stack development studies in the **.NET ecosystem**, including backend APIs, Blazor front-end integration, and general full-stack project work.
 
-This repository serves as a portfolio overview, showcasing:
-- Professional WordPress and Shopify project case studies
-- Ongoing full-stack and .NET learning projects
-- Clear documentation of responsibilities and contributions
+This repository serves as a **comprehensive portfolio**, showcasing:
+
+- Professional WordPress and Shopify project case studies  
+- Structured full-stack and .NET learning projects  
+- Clear documentation of responsibilities, problem-solving, and project outcomes  
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 - **/wordpress**  
   Professional WordPress projects, including full builds, bespoke sites, and long-term maintenance work.
@@ -20,14 +21,15 @@ This repository serves as a portfolio overview, showcasing:
   Shopify store maintenance and product/page update experience.
 
 - **/dotnet**  
-  Full-stack and software development projects completed as part of structured learning.
+  Full-stack and software development projects completed as part of structured learning, including backend APIs, Blazor front-end modules, and other course exercises.
 
 ---
 
-## Notes
+## 📌 Notes
 
-- All client-related examples link to publicly accessible live websites.
-- No confidential data, credentials, or proprietary assets are shared.
-- Case studies focus on responsibilities, problem-solving, and outcomes rather than source code ownership.
+- All client-related examples link to publicly accessible live websites.  
+- No confidential data, credentials, or proprietary assets are included.  
+- Case studies focus on responsibilities, problem-solving, and outcomes rather than source code ownership.  
+- Readers interested in **software development projects** are encouraged to explore the `/dotnet` folder, which is kept as a submodule linked to structured course projects.
 
 Thank you for reviewing my portfolio.
