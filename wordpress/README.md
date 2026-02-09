@@ -42,3 +42,15 @@ This section highlights my professional WordPress experience gained while workin
 - **Cricket Switzerland**
 - **Swinton Lions RLFC**
 - See detailed case studies in `CricketSwitzerland/README.md` and `SwintonLionsRLFC/README.md`
+
+## Ongoing Optimization Awareness
+
+Across long-term production sites, my responsibilities often focused on stability, uptime, and client-priority delivery within budget and time constraints.
+
+As my experience has grown, I actively evaluate past projects for:
+- Additional performance optimizations (Core Web Vitals, asset loading, caching strategies)
+- Improved component reuse and layout efficiency
+- Enhanced accessibility and mobile usability
+- Cleaner separation between content, layout, and logic
+
+This mindset reflects how I approach current and future projects: iterative improvement, measurable gains, and maintainable solutions.
