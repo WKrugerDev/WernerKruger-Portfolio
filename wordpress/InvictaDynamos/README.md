@@ -3,7 +3,7 @@
 **Role:** Web Developer – Full Build & Long-Term Maintenance  
 **Platform:** WordPress  
 **Page Builder:** Divi  
-**Primary Plugin:** SportsPress 
+**Primary Plugin:** SportsPress   
 **Live URL:** https://invictadynamos.co.uk/  
 
 ---
