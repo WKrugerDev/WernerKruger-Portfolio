@@ -1,38 +1,69 @@
-# Project: Cricket Switzerland  
-Platform: WordPress  
-Live URL: https://cricketswitzerland.ch/  
-Role: Web Developer – Original Build & Ongoing Maintenance
+# Project: Cricket Switzerland (WordPress)
+
+**Role:** Web Developer – Full Build & Ongoing Maintenance  
+**Platform:** WordPress  
+**Page Builder:** Divi  
+
+**Live Site:** https://cricketswitzerland.ch/
+
+---
 
 ## Project Overview
-Cricket Switzerland is a large WordPress website supporting a national sports organization with diverse content needs, including organizational information, national teams, domestic competitions, fixtures, and news.
 
-I was responsible for the original site build, including layout implementation and design input, and have continued to support the platform through long-term maintenance, updates, and technical improvements. Over time, the site has evolved significantly as the organization’s content and structural requirements expanded.
+Cricket Switzerland is the official website of the national cricket organization, serving multiple audiences including administrators, players, national teams, domestic leagues, and the general public.
 
+I was responsible for the **original full build** of the website and have continued to provide long-term maintenance and updates. The project reflects an earlier stage of my professional development and has since informed many improvements in how I approach architecture, performance, and scalability today.
+
+---
 
 ## Responsibilities
-- Built the original WordPress site using Divi, implementing layouts and design suggestions based on client goals and available content
-- Maintained and updated pages, posts, and structured content using the existing theme and layout system
-- Implemented SEO best practices to improve content structure, metadata consistency, and crawlability
-- Configured and maintained caching, security, and performance-related plugins
-- Troubleshot plugin conflicts, layout issues, technical issues and site stability concerns
-- Maintained and updated SMTP/email delivery following Google and provider security changes
-- Collaborated closely with the client on content updates, images, and navigation adjustments
-- Supported gradual structural improvements while maintaining production stability
 
-## Architectural & Design Evolution
-The site has grown significantly over time as content, competitions, and organizational needs expanded. This resulted in a large, multi-purpose platform with extensive subpages and complex navigation structures.
+- Designed and built the complete WordPress website using Divi
+- Worked with the client to define site structure, navigation, and content priorities
+- Implemented responsive layouts and cross-device compatibility
+- Maintained and updated pages, posts, and media content
+- Implemented SEO best practices and improved content structure
+- Configured caching, security, and SEO plugins
+- Troubleshot plugin conflicts and resolved technical issues
+- Maintained email delivery and SMTP configuration following Google security changes
+- Collaborated with the client on ongoing content, imagery, and structural updates
 
-Through long-term ownership of the project, I’ve developed a clear understanding of:
-- How early architectural decisions affect long-term scalability
-- When incremental performance optimisation is appropriate versus when a rebuild delivers better ROI
-- The importance of aligning technical improvements with budget, timelines, and client priorities
+---
 
-Current discussions focus on a future rebuild strategy to better separate organizational, national team, and domestic cricket content, while ongoing work prioritizes stability, accuracy, and relevant content updates.
+## Scale & Structural Considerations
+
+Over time, the site grew to support multiple functional areas:
+- Organizational content
+- National team content
+- Domestic cricket content
+
+This resulted in a large number of pages, deep navigation hierarchies, and complex menus. In later years, discussions shifted toward a **future rebuild**, including the potential separation into multiple focused sites to improve usability, performance, and long-term maintainability.
+
+Due to budget constraints and the planned rebuild, current work focuses on:
+- Content updates requested by the client
+- Structural fixes where needed
+- Stability and security rather than deep performance refactoring
+
+---
+
+## Reflection & Professional Growth
+
+While the site performs its required function and continues to serve its audience, this project represents valuable real-world learning in:
+
+- Designing for long-term growth
+- Managing content-heavy websites
+- Understanding when architectural limits justify a rebuild
+- Balancing ideal solutions with commercial realities
+
+These lessons directly inform how I approach newer builds and technical decisions today.
+
+---
 
 ## Tools & Technologies
+
 - WordPress
 - Divi Page Builder
 - HTML, CSS, JavaScript
-- SEO, caching, and security plugins
-- SMTP configuration and email deliverability maintenance
-
+- SEO and caching plugins
+- Security plugins
+- SMTP configuration and maintenance
